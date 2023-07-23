@@ -1,8 +1,4 @@
-# Minimal Mistakes remote theme starter
-
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Contains basic configuration to get you a site with:
+I forked this repo from the Minimal Mistakes remote theme starter to get started quickly. It contained:
 
 - Sample posts.
 - Sample top navigation.
@@ -14,7 +10,7 @@ Contains basic configuration to get you a site with:
 - Sample 404 page.
 - Site wide search.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+I now need to replace the sample content with my own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
 ---
 
