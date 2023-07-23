@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Ante Bellum's Blog
+email: ant3b3llum@protonmail.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Random thoughts on Bitcoin, Nostr, and other freedom tech. Also interested in investments in general.
+twitter_username: ant3b3llum
+github_username: ant3b3llum
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Ant3 B3llum"
+  avatar : "https://avatars.githubusercontent.com/u/129178365?s=400&u=02210e5477d02462a8e2ea4a2ae562af85a2821b&v=4"
+  bio    : "Random thoughts on Bitcoin, Nostr, and other freedom tech. Also interested in investments in general."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
